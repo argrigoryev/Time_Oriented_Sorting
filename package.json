@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "heapsort": "^0.1.2",
+    "introsort": "^0.0.2",
+    "qsort": "^0.0.5"
+  }
+}
